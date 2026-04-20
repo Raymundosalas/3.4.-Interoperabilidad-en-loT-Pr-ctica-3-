@@ -1,0 +1,10 @@
+{
+  "Jugadores": {
+    "Raymundo": {
+      "nombre": "Raymundo",
+      "puntos": 1500,
+      "nivel": 3,
+      "monedas": 250
+    }
+  }
+}
